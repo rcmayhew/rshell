@@ -1,5 +1,5 @@
 # rshell
-School project to build a linux shell in c++ that I built with Noad
+School project to build a linux shell in c++ that I built with Noah Marestaing
 we added piping, input redirection, and output redirection functionality.
 ### List of bugs
 * can't take in echo arguments that come after connectors
